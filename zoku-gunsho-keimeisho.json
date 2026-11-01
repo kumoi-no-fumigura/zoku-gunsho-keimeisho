@@ -76,6 +76,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-keimeisho",
   "work": "桂明抄",
@@ -88,7 +92,7 @@
   "blocks": 4,
   "chars": 828,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 4,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T20:43:04+09:00"
